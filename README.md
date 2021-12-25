@@ -1,5 +1,5 @@
-# Clinical-Dataset-Analysis
-Analysis of UCI's Heart Disease Dataset
+# Analysis and Modelling - UCI's Heart Disease Dataset
+
 
 
 Obtaining the dataset:
@@ -14,11 +14,10 @@ Obtaining the dataset:
 
 5) "heart_failure_clinical_records_dataset.csv"
 
+<br>
 
-Running the code, import, cleaning and modelling:
 
-Running the script file:
-
+# How to run
 
 1) Run on Jupyter notebook (python 3).
 
